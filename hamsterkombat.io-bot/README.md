@@ -13,3 +13,5 @@ All instructions are attached in our [youtube ](https://youtu.be/ZUgaNSSSD2Y)
 #### Dependencies:
 - [NodeJS 16+](https://nodejs.org/en)
 - run npm install
+
+*Tanpa token*
