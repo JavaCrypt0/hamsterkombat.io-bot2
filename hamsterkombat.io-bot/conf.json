@@ -1,0 +1,6 @@
+{
+  "hamster-token" : "",
+  "taps" : 10,
+  "minimumAmountForUpgrades" : 600000,
+  "UpgradePeriodicityInMinutes" : 30
+}
